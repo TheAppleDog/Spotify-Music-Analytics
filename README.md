@@ -90,10 +90,10 @@ Observed relationships should be treated as associations, not proof that a parti
 
 ## 📷 Dashboard Screenshots
 Add screenshots of both completed dashboards here.
+<img width="1920" height="1080" alt="music-overview" src="https://github.com/user-attachments/assets/4ab08f07-0230-4eb3-b424-218b02c1f018" /><br>
 
-Suggested filenames:
-- `music-overview.png`
-- `what-makes-a-hit.png`
+<img width="1920" height="1080" alt="what-makes-a-hit" src="https://github.com/user-attachments/assets/40aa41e6-f500-4e43-9f51-852295f94fa8" />
+
 
 ## 📁 Dataset
 Spotify Tracks Dataset: https://github.com/sai-chaitanya-reddy/spotify-tracks-dataset
